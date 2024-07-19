@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **NEXPOOL**
 
-- 👨‍💻 All of my projects are available at [attiqwbe3developer.vercel.app](attiqwbe3developer.vercel.app)
+- 👨‍💻 All of my projects are available at [attiqweb3developer.vercel.app](attiqweb3developer.vercel.app)
 
 - 📫 How to reach me **attiqmuhammad51@gmail.com**
 
